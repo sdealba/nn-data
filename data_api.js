@@ -1,4 +1,4 @@
-// Ventas desde APIs — los 3 canales completos desde 2026-02-01 — actualizado 2026-09-01 14:17
+// Ventas desde APIs — los 3 canales completos desde 2026-02-01 — actualizado 2026-09-01 16:37
 window.VENTAS_API = [
 {f:'2026-02-04',p:'Magni4',precio:336.75,cant:1,total:336.75,com:50.51,envio:127.2,pack:0,neto:159.04,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-02-04',p:'Noctazen',precio:381.65,cant:1,total:381.65,com:57.25,envio:127.2,pack:0,neto:197.2,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
@@ -311,8 +311,8 @@ window.VENTAS_API = [
 {f:'2026-04-18',p:'Testo SX',precio:374.0,cant:1,total:374.0,com:56.1,envio:71.52,pack:0,neto:246.38,canal:'Mercado Libre',cd:"Mexicali",edo:"Baja California",gw:'',st:''},
 {f:'2026-04-19',p:'Noctazen',precio:449.0,cant:1,total:381.65,com:88.16,envio:0,pack:0,neto:293.49,canal:'Amazon',cd:"Juarez",edo:"Chihuahua",gw:'',st:''},
 {f:'2026-04-20',p:'Noctazen',precio:449.0,cant:1,total:449.0,com:94.9,envio:0,pack:0,neto:354.1,canal:'Amazon',cd:"Chihuahua",edo:"Chihuahua",gw:'',st:''},
-{f:'2026-04-20',p:'Omega 3',precio:374.0,cant:1,total:374.0,com:72.93,envio:143.04,pack:0,neto:158.03,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-04-20',p:'Inosiplus',precio:374.0,cant:1,total:374.0,com:56.1,envio:143.04,pack:0,neto:174.86,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
+{f:'2026-04-20',p:'Omega 3',precio:374.0,cant:1,total:374.0,com:72.93,envio:143.04,pack:0,neto:158.03,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-04-20',p:'Omega 3',precio:374.0,cant:1,total:374.0,com:72.93,envio:71.52,pack:0,neto:229.55,canal:'Mercado Libre',cd:"Chimalhuacán",edo:"Edo. de México",gw:'',st:''},
 {f:'2026-04-20',p:'Magni4',precio:336.0,cant:1,total:336.0,com:50.4,envio:81.12,pack:0,neto:204.48,canal:'Mercado Libre',cd:"Mazapil",edo:"Zacatecas",gw:'',st:''},
 {f:'2026-04-21',p:'Magni4',precio:449.0,cant:1,total:381.65,com:88.16,envio:0,pack:0,neto:293.49,canal:'Amazon',cd:"Tulum",edo:"Quintana Roo",gw:'',st:''},
@@ -619,4 +619,4 @@ window.VENTAS_API = [
 ];
 // Desde estas fechas manda el API y las filas del Excel se ignoran (queda de respaldo):
 window.API_COVERAGE = {"Mercado Libre": "2026-02-01", "Shopify": "2026-02-01", "Amazon": "2026-02-01"};
-window.API_UPDATED = '2026-09-01 14:17';
+window.API_UPDATED = '2026-09-01 16:37';
