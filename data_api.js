@@ -1,4 +1,4 @@
-// Ventas desde APIs — los 3 canales completos desde 2026-02-01 — actualizado 2026-09-01 16:37
+// Ventas desde APIs — los 3 canales completos desde 2026-02-01 — actualizado 2026-09-01 18:10
 window.VENTAS_API = [
 {f:'2026-02-04',p:'Magni4',precio:336.75,cant:1,total:336.75,com:50.51,envio:127.2,pack:0,neto:159.04,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-02-04',p:'Noctazen',precio:381.65,cant:1,total:381.65,com:57.25,envio:127.2,pack:0,neto:197.2,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
@@ -123,8 +123,8 @@ window.VENTAS_API = [
 {f:'2026-03-19',p:'Magni4',precio:336.0,cant:1,total:336.0,com:50.4,envio:169.0,pack:0,neto:116.6,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-03-19',p:'Magni4',precio:336.0,cant:1,total:336.0,com:50.4,envio:169.0,pack:0,neto:116.6,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-03-19',p:'Omega 3',precio:374.0,cant:1,total:374.0,com:72.93,envio:149.0,pack:0,neto:152.07,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
-{f:'2026-03-19',p:'Magni4',precio:336.0,cant:1,total:336.0,com:50.4,envio:318.0,pack:0,neto:-32.4,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-03-19',p:'Inosiplus',precio:374.0,cant:1,total:374.0,com:56.1,envio:318.0,pack:0,neto:-0.1,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
+{f:'2026-03-19',p:'Magni4',precio:336.0,cant:1,total:336.0,com:50.4,envio:318.0,pack:0,neto:-32.4,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-03-19',p:'Vitmix',precio:374.0,cant:1,total:374.0,com:56.1,envio:149.0,pack:0,neto:168.9,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-03-19',p:'Noctazen',precio:336.0,cant:1,total:336.0,com:65.52,envio:149.0,pack:0,neto:121.48,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-03-19',p:'Inosiplus',precio:374.0,cant:1,total:374.0,com:56.1,envio:149.0,pack:0,neto:168.9,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
@@ -256,8 +256,8 @@ window.VENTAS_API = [
 {f:'2026-04-13',p:'Novafig',precio:411.0,cant:1,total:411.0,com:61.65,envio:119.2,pack:0,neto:230.15,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-04-13',p:'Enzybalance',precio:374.0,cant:1,total:374.0,com:56.1,envio:119.2,pack:0,neto:198.7,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-04-13',p:'Novafig',precio:411.0,cant:1,total:411.0,com:61.65,envio:119.2,pack:0,neto:230.15,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
-{f:'2026-04-13',p:'Immuvita',precio:336.0,cant:1,total:336.0,com:50.4,envio:238.4,pack:0,neto:47.2,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-04-13',p:'Novafig',precio:411.0,cant:1,total:411.0,com:61.65,envio:238.4,pack:0,neto:110.95,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
+{f:'2026-04-13',p:'Immuvita',precio:336.0,cant:1,total:336.0,com:50.4,envio:238.4,pack:0,neto:47.2,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-04-13',p:'Novafig',precio:411.0,cant:1,total:411.0,com:61.65,envio:71.52,pack:0,neto:277.83,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-04-13',p:'Testo SX',precio:374.0,cant:1,total:374.0,com:56.1,envio:71.52,pack:0,neto:246.38,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-04-13',p:'Testo SX',precio:374.0,cant:1,total:374.0,com:56.1,envio:71.52,pack:0,neto:246.38,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
@@ -311,8 +311,8 @@ window.VENTAS_API = [
 {f:'2026-04-18',p:'Testo SX',precio:374.0,cant:1,total:374.0,com:56.1,envio:71.52,pack:0,neto:246.38,canal:'Mercado Libre',cd:"Mexicali",edo:"Baja California",gw:'',st:''},
 {f:'2026-04-19',p:'Noctazen',precio:449.0,cant:1,total:381.65,com:88.16,envio:0,pack:0,neto:293.49,canal:'Amazon',cd:"Juarez",edo:"Chihuahua",gw:'',st:''},
 {f:'2026-04-20',p:'Noctazen',precio:449.0,cant:1,total:449.0,com:94.9,envio:0,pack:0,neto:354.1,canal:'Amazon',cd:"Chihuahua",edo:"Chihuahua",gw:'',st:''},
-{f:'2026-04-20',p:'Inosiplus',precio:374.0,cant:1,total:374.0,com:56.1,envio:143.04,pack:0,neto:174.86,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-04-20',p:'Omega 3',precio:374.0,cant:1,total:374.0,com:72.93,envio:143.04,pack:0,neto:158.03,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
+{f:'2026-04-20',p:'Inosiplus',precio:374.0,cant:1,total:374.0,com:56.1,envio:143.04,pack:0,neto:174.86,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-04-20',p:'Omega 3',precio:374.0,cant:1,total:374.0,com:72.93,envio:71.52,pack:0,neto:229.55,canal:'Mercado Libre',cd:"Chimalhuacán",edo:"Edo. de México",gw:'',st:''},
 {f:'2026-04-20',p:'Magni4',precio:336.0,cant:1,total:336.0,com:50.4,envio:81.12,pack:0,neto:204.48,canal:'Mercado Libre',cd:"Mazapil",edo:"Zacatecas",gw:'',st:''},
 {f:'2026-04-21',p:'Magni4',precio:449.0,cant:1,total:381.65,com:88.16,envio:0,pack:0,neto:293.49,canal:'Amazon',cd:"Tulum",edo:"Quintana Roo",gw:'',st:''},
@@ -424,8 +424,8 @@ window.VENTAS_API = [
 {f:'2026-06-16',p:'Noctazen',precio:381.65,cant:1,total:381.65,com:52.66,envio:0,pack:0,neto:328.99,canal:'Amazon',cd:"Bahia de Banderas",edo:"Nayarit",gw:'',st:''},
 {f:'2026-06-16',p:'Noctazen',precio:381.65,cant:1,total:381.65,com:52.66,envio:0,pack:0,neto:328.99,canal:'Amazon',cd:"Ciudad Adolfo Lopez Mateos",edo:"Edo. de México",gw:'',st:''},
 {f:'2026-06-16',p:'Noctazen',precio:381.65,cant:1,total:381.65,com:52.66,envio:0,pack:0,neto:328.99,canal:'Amazon',cd:"CDMX",edo:"CDMX",gw:'',st:''},
-{f:'2026-06-16',p:'Serenol',precio:424.15,cant:1,total:424.15,com:63.2,envio:224.16,pack:0,neto:136.79,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-06-16',p:'Magni4',precio:381.63,cant:1,total:381.63,com:56.86,envio:224.16,pack:0,neto:100.61,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
+{f:'2026-06-16',p:'Serenol',precio:424.15,cant:1,total:424.15,com:63.2,envio:224.16,pack:0,neto:136.79,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-06-16',p:'Noctazen',precio:424.15,cant:1,total:424.15,com:82.29,envio:224.16,pack:0,neto:117.7,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-06-17',p:'Noctazen',precio:381.65,cant:1,total:381.65,com:52.66,envio:0,pack:0,neto:328.99,canal:'Amazon',cd:"CDMX",edo:"CDMX",gw:'',st:''},
 {f:'2026-06-17',p:'Testo SX',precio:449.11,cant:1,total:449.1,com:59.4,envio:0,pack:0,neto:389.7,canal:'Amazon',cd:"Teziutlan",edo:"Puebla",gw:'',st:''},
@@ -525,8 +525,8 @@ window.VENTAS_API = [
 {f:'2026-08-03',p:'Enzybalance',precio:499.0,cant:1,total:499.0,com:0.0,envio:0,pack:0,neto:499.0,canal:'Amazon',cd:"Hermosillo",edo:"Sonora",gw:'',st:''},
 {f:'2026-08-03',p:'Vitmix',precio:424.15,cant:1,total:424.15,com:63.2,envio:71.52,pack:0,neto:289.43,canal:'Mercado Libre',cd:"Coyoacán",edo:"CDMX",gw:'',st:''},
 {f:'2026-08-03',p:'Magni4',precio:378.06,cant:1,total:378.06,com:56.33,envio:224.16,pack:0,neto:97.57,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
-{f:'2026-08-03',p:'Serenol',precio:424.15,cant:1,total:424.15,com:63.2,envio:224.16,pack:0,neto:136.79,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-08-03',p:'Noctazen',precio:424.15,cant:1,total:424.15,com:82.29,envio:224.16,pack:0,neto:117.7,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
+{f:'2026-08-03',p:'Serenol',precio:424.15,cant:1,total:424.15,com:63.2,envio:224.16,pack:0,neto:136.79,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-08-04',p:'Testo SX',precio:499.0,cant:1,total:499.0,com:0.0,envio:0,pack:0,neto:499.0,canal:'Amazon',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-08-04',p:'Noctazen',precio:449.0,cant:1,total:449.0,com:0.0,envio:0,pack:0,neto:449.0,canal:'Amazon',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-08-05',p:'Noctazen',precio:449.0,cant:1,total:449.0,com:0.0,envio:0,pack:0,neto:449.0,canal:'Amazon',cd:"CDMX",edo:"CDMX",gw:'',st:''},
@@ -561,8 +561,8 @@ window.VENTAS_API = [
 {f:'2026-08-18',p:'Artimatrix',precio:589.0,cant:1,total:589.0,com:0.0,envio:0,pack:0,neto:589.0,canal:'Amazon',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-08-18',p:'Enzybalance',precio:424.54,cant:1,total:424.54,com:63.26,envio:71.52,pack:0,neto:289.76,canal:'Mercado Libre',cd:"Hermosillo",edo:"Sonora",gw:'',st:''},
 {f:'2026-08-18',p:'Magni4',precio:378.06,cant:1,total:378.06,com:56.33,envio:295.68,pack:0,neto:26.05,canal:'Mercado Libre',cd:"San Luis Potosí",edo:"San Luis Potosí",gw:'',st:''},
-{f:'2026-08-18',p:'Immuvita',precio:381.65,cant:1,total:381.65,com:56.87,envio:295.68,pack:0,neto:29.1,canal:'Mercado Libre',cd:"San Luis Potosí",edo:"San Luis Potosí",gw:'',st:''},
 {f:'2026-08-18',p:'Noctazen',precio:424.15,cant:1,total:424.15,com:82.29,envio:295.68,pack:0,neto:46.18,canal:'Mercado Libre',cd:"San Luis Potosí",edo:"San Luis Potosí",gw:'',st:''},
+{f:'2026-08-18',p:'Immuvita',precio:381.65,cant:1,total:381.65,com:56.87,envio:295.68,pack:0,neto:29.1,canal:'Mercado Libre',cd:"San Luis Potosí",edo:"San Luis Potosí",gw:'',st:''},
 {f:'2026-08-18',p:'Enzybalance',precio:424.54,cant:1,total:424.54,com:63.26,envio:295.68,pack:0,neto:65.6,canal:'Mercado Libre',cd:"San Luis Potosí",edo:"San Luis Potosí",gw:'',st:''},
 {f:'2026-08-19',p:'Magni4',precio:449.0,cant:2,total:898.0,com:0.0,envio:0,pack:0,neto:898.0,canal:'Amazon',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-08-19',p:'Noctazen',precio:449.0,cant:1,total:449.0,com:0.0,envio:0,pack:0,neto:449.0,canal:'Amazon',cd:"Uruapan",edo:"Michoacan De Ocampo",gw:'',st:''},
@@ -615,8 +615,9 @@ window.VENTAS_API = [
 {f:'2026-08-30',p:'Serenol',precio:349.0,cant:1,total:349.0,com:0.0,envio:0,pack:0,neto:349.0,canal:'Amazon',cd:"Amozoc",edo:"Puebla",gw:'',st:''},
 {f:'2026-08-31',p:'Noctazen',precio:309.0,cant:1,total:309.0,com:0.0,envio:0,pack:0,neto:309.0,canal:'Amazon',cd:"Palenque",edo:"Chiapas",gw:'',st:''},
 {f:'2026-08-31',p:'Artimatrix',precio:389.0,cant:1,total:389.0,com:57.96,envio:56.0,pack:0,neto:275.04,canal:'Mercado Libre',cd:"Altamira",edo:"Tamaulipas",gw:'',st:''},
+{f:'2026-09-01',p:'Magni4',precio:269.0,cant:1,total:231.9,com:0.0,envio:0,pack:0,neto:231.9,canal:'Amazon',cd:"ZM Monterrey",edo:"Nuevo León",gw:'',st:'p'},
 {f:'2026-09-01',p:'Artimatrix',precio:389.0,cant:2,total:778.0,com:115.92,envio:112.0,pack:0,neto:550.08,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''}
 ];
 // Desde estas fechas manda el API y las filas del Excel se ignoran (queda de respaldo):
 window.API_COVERAGE = {"Mercado Libre": "2026-02-01", "Shopify": "2026-02-01", "Amazon": "2026-02-01"};
-window.API_UPDATED = '2026-09-01 16:37';
+window.API_UPDATED = '2026-09-01 18:10';
