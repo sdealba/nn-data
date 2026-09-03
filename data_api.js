@@ -1,4 +1,4 @@
-// Ventas desde APIs — los 3 canales completos desde 2026-02-01 — actualizado 2026-09-02 17:51
+// Ventas desde APIs — los 3 canales completos desde 2026-02-01 — actualizado 2026-09-02 18:14
 window.VENTAS_API = [
 {f:'2026-02-04',p:'Magni4',precio:336.75,cant:1,total:336.75,com:50.51,envio:127.2,pack:0,neto:159.04,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-02-04',p:'Noctazen',precio:381.65,cant:1,total:381.65,com:57.25,envio:127.2,pack:0,neto:197.2,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
@@ -123,8 +123,8 @@ window.VENTAS_API = [
 {f:'2026-03-19',p:'Magni4',precio:336.0,cant:1,total:336.0,com:50.4,envio:169.0,pack:0,neto:116.6,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-03-19',p:'Magni4',precio:336.0,cant:1,total:336.0,com:50.4,envio:169.0,pack:0,neto:116.6,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-03-19',p:'Omega 3',precio:374.0,cant:1,total:374.0,com:72.93,envio:149.0,pack:0,neto:152.07,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
-{f:'2026-03-19',p:'Inosiplus',precio:374.0,cant:1,total:374.0,com:56.1,envio:318.0,pack:0,neto:-0.1,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-03-19',p:'Magni4',precio:336.0,cant:1,total:336.0,com:50.4,envio:318.0,pack:0,neto:-32.4,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
+{f:'2026-03-19',p:'Inosiplus',precio:374.0,cant:1,total:374.0,com:56.1,envio:318.0,pack:0,neto:-0.1,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-03-19',p:'Vitmix',precio:374.0,cant:1,total:374.0,com:56.1,envio:149.0,pack:0,neto:168.9,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-03-19',p:'Noctazen',precio:336.0,cant:1,total:336.0,com:65.52,envio:149.0,pack:0,neto:121.48,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-03-19',p:'Inosiplus',precio:374.0,cant:1,total:374.0,com:56.1,envio:149.0,pack:0,neto:168.9,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
@@ -626,4 +626,4 @@ window.VENTAS_API = [
 ];
 // Desde estas fechas manda el API y las filas del Excel se ignoran (queda de respaldo):
 window.API_COVERAGE = {"Mercado Libre": "2026-02-01", "Shopify": "2026-02-01", "Amazon": "2026-02-01"};
-window.API_UPDATED = '2026-09-02 17:51';
+window.API_UPDATED = '2026-09-02 18:14';
