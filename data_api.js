@@ -1,4 +1,4 @@
-// Ventas desde APIs — los 3 canales completos desde 2026-02-01 — actualizado 2026-09-04 12:36
+// Ventas desde APIs — los 3 canales completos desde 2026-02-01 — actualizado 2026-09-04 14:48
 window.VENTAS_API = [
 {f:'2026-02-04',p:'Magni4',precio:336.75,cant:1,total:336.75,com:50.51,envio:127.2,pack:0,neto:159.04,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-02-04',p:'Noctazen',precio:381.65,cant:1,total:381.65,com:57.25,envio:127.2,pack:0,neto:197.2,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
@@ -626,8 +626,10 @@ window.VENTAS_API = [
 {f:'2026-09-02',p:'Novafig',precio:379.0,cant:1,total:379.0,com:73.53,envio:56.0,pack:0,neto:249.47,canal:'Mercado Libre',cd:"Pachuca de Soto",edo:"Hidalgo",gw:'',st:''},
 {f:'2026-09-03',p:'Noctazen',precio:309.0,cant:1,total:266.38,com:0.0,envio:0,pack:0,neto:266.38,canal:'Amazon',cd:"Naucalpan de Juarez",edo:"Edo. de México",gw:'',st:'p'},
 {f:'2026-09-03',p:'Noctazen',precio:309.0,cant:1,total:266.38,com:0.0,envio:0,pack:0,neto:266.38,canal:'Amazon',cd:"ZM Monterrey",edo:"Nuevo León",gw:'',st:'p'},
-{f:'2026-09-04',p:'Magni4',precio:269.0,cant:1,total:231.9,com:0.0,envio:0,pack:0,neto:231.9,canal:'Amazon',cd:"CDMX",edo:"CDMX",gw:'',st:'p'}
+{f:'2026-09-04',p:'Magni4',precio:269.0,cant:1,total:231.9,com:0.0,envio:0,pack:0,neto:231.9,canal:'Amazon',cd:"CDMX",edo:"CDMX",gw:'',st:'p'},
+{f:'2026-09-04',p:'Vitmix',precio:298.0,cant:1,total:256.9,com:0.0,envio:0,pack:0,neto:256.9,canal:'Amazon',cd:"Tijuana",edo:"Baja California",gw:'',st:'p'},
+{f:'2026-09-04',p:'Inosiplus',precio:298.0,cant:1,total:256.9,com:0.0,envio:0,pack:0,neto:256.9,canal:'Amazon',cd:"Ciudad Apodaca",edo:"Nuevo León",gw:'',st:'p'}
 ];
 // Desde estas fechas manda el API y las filas del Excel se ignoran (queda de respaldo):
 window.API_COVERAGE = {"Mercado Libre": "2026-02-01", "Shopify": "2026-02-01", "Amazon": "2026-02-01"};
-window.API_UPDATED = '2026-09-04 12:36';
+window.API_UPDATED = '2026-09-04 14:48';
