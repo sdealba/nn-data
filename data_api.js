@@ -1,4 +1,4 @@
-// Ventas desde APIs — los 3 canales completos desde 2026-02-01 — actualizado 2026-09-07 06:51
+// Ventas desde APIs — los 3 canales completos desde 2026-02-01 — actualizado 2026-09-07 15:54
 window.VENTAS_API = [
 {f:'2026-02-04',p:'Magni4',precio:336.75,cant:1,total:336.75,com:50.51,envio:127.2,pack:0,neto:159.04,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-02-04',p:'Noctazen',precio:381.65,cant:1,total:381.65,com:57.25,envio:127.2,pack:0,neto:197.2,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
@@ -561,8 +561,8 @@ window.VENTAS_API = [
 {f:'2026-08-18',p:'Artimatrix',precio:589.0,cant:1,total:589.0,com:0.0,envio:0,pack:0,neto:589.0,canal:'Amazon',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-08-18',p:'Enzybalance',precio:424.54,cant:1,total:424.54,com:63.26,envio:71.52,pack:0,neto:289.76,canal:'Mercado Libre',cd:"Hermosillo",edo:"Sonora",gw:'',st:''},
 {f:'2026-08-18',p:'Magni4',precio:378.06,cant:1,total:378.06,com:56.33,envio:295.68,pack:0,neto:26.05,canal:'Mercado Libre',cd:"San Luis Potosí",edo:"San Luis Potosí",gw:'',st:''},
-{f:'2026-08-18',p:'Immuvita',precio:381.65,cant:1,total:381.65,com:56.87,envio:295.68,pack:0,neto:29.1,canal:'Mercado Libre',cd:"San Luis Potosí",edo:"San Luis Potosí",gw:'',st:''},
 {f:'2026-08-18',p:'Noctazen',precio:424.15,cant:1,total:424.15,com:82.29,envio:295.68,pack:0,neto:46.18,canal:'Mercado Libre',cd:"San Luis Potosí",edo:"San Luis Potosí",gw:'',st:''},
+{f:'2026-08-18',p:'Immuvita',precio:381.65,cant:1,total:381.65,com:56.87,envio:295.68,pack:0,neto:29.1,canal:'Mercado Libre',cd:"San Luis Potosí",edo:"San Luis Potosí",gw:'',st:''},
 {f:'2026-08-18',p:'Enzybalance',precio:424.54,cant:1,total:424.54,com:63.26,envio:295.68,pack:0,neto:65.6,canal:'Mercado Libre',cd:"San Luis Potosí",edo:"San Luis Potosí",gw:'',st:''},
 {f:'2026-08-19',p:'Magni4',precio:449.0,cant:2,total:898.0,com:0.0,envio:0,pack:0,neto:898.0,canal:'Amazon',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-08-19',p:'Noctazen',precio:449.0,cant:1,total:449.0,com:0.0,envio:0,pack:0,neto:449.0,canal:'Amazon',cd:"Uruapan",edo:"Michoacan De Ocampo",gw:'',st:''},
@@ -642,8 +642,10 @@ window.VENTAS_API = [
 {f:'2026-09-06',p:'Noctazen',precio:309.0,cant:1,total:266.38,com:0.0,envio:0,pack:0,neto:266.38,canal:'Amazon',cd:"Atlixco",edo:"Puebla",gw:'',st:'p'},
 {f:'2026-09-06',p:'Noctazen',precio:309.0,cant:1,total:266.38,com:0.0,envio:0,pack:0,neto:266.38,canal:'Amazon',cd:"CDMX",edo:"CDMX",gw:'',st:'p'},
 {f:'2026-09-06',p:'Magni4',precio:269.0,cant:5,total:1159.5,com:0.0,envio:0,pack:0,neto:1159.5,canal:'Amazon',cd:"CDMX",edo:"CDMX",gw:'',st:'p'},
-{f:'2026-09-07',p:'Serenol',precio:349.0,cant:1,total:300.86,com:0.0,envio:0,pack:0,neto:300.86,canal:'Amazon',cd:"CDMX",edo:"CDMX",gw:'',st:'p'}
+{f:'2026-09-07',p:'Serenol',precio:349.0,cant:1,total:349.0,com:0.0,envio:0,pack:0,neto:349.0,canal:'Amazon',cd:"CDMX",edo:"CDMX",gw:'',st:'p'},
+{f:'2026-09-07',p:'Inosiplus',precio:298.0,cant:1,total:256.9,com:0.0,envio:0,pack:0,neto:256.9,canal:'Amazon',cd:"CDMX",edo:"CDMX",gw:'',st:'p'},
+{f:'2026-09-07',p:'Inosiplus',precio:298.0,cant:1,total:256.9,com:0.0,envio:0,pack:0,neto:256.9,canal:'Amazon',cd:"Saltillo",edo:"Coahuila",gw:'',st:'p'}
 ];
 // Desde estas fechas manda el API y las filas del Excel se ignoran (queda de respaldo):
 window.API_COVERAGE = {"Mercado Libre": "2026-02-01", "Shopify": "2026-02-01", "Amazon": "2026-02-01"};
-window.API_UPDATED = '2026-09-07 06:51';
+window.API_UPDATED = '2026-09-07 15:54';
